@@ -1,6 +1,6 @@
 # RingCentral Kotlin Demo
 
-Simple demo using ringcentral-java sdk.
+Simple demo using [ringcentral-java sdk](https://bintray.com/tylerlong/maven/ringcentral).
 
 ## Run
 

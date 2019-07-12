@@ -2,6 +2,8 @@
 
 Simple demo using [ringcentral-java sdk](https://bintray.com/tylerlong/maven/ringcentral).
 
+This demo just use password flow do auth through auth api, nothing else.
+
 ## Run
 
 ```bash
